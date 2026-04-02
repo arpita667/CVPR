@@ -1,4 +1,4 @@
-# CVPR
+
 # CVPR Assignment: CNN Development on Custom Image Dataset
 
 ## 📌 Project Overview
